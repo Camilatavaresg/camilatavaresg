@@ -1,5 +1,5 @@
 
-<img align="right" alt="girl" src="https://github.com/Camilatavaresg/camilatavaresg/blob/main/githubpic.jpeg?raw=true" width="480" height="420" />
+<img align="right" alt="girl" src="https://github.com/Camilatavaresg/camilatavaresg/blob/main/githubpic.jpeg?raw=true" width="410" height="370" />
 
 
 
