@@ -4,7 +4,7 @@
 
 - My name is Camila Tavares 
 
-- From 🇧🇷, living in 🇬🇧  
+- From 🇧🇷 living in 🇬🇧  
 
 - I'm a Front-End developer since 2021. 💻
 
