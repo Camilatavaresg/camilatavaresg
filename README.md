@@ -2,7 +2,9 @@
 ### Hey 👋
 
 
-- My name is Camila Tavares 🇧🇷
+- My name is Camila Tavares 
+
+- From 🇧🇷, living in 🇬🇧  
 
 - I'm a Front-End developer since 2021. 💻
 
