@@ -1,16 +1,14 @@
 
-<img align="right" alt="girl" src="https://github.com/Camilatavaresg/camilatavaresg/blob/main/githubpic.jpeg?raw=true" width="410" height="370" />
+### Hey 👋
 
 
+- My name is Camila Tavares 🇧🇷
 
+I'm a Front-End developer since 2021. 💻
 
-### Hello world, I'm Camila 👋
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-
-- 📋 You can find my CV here [Camila's CV](https://camilatavaresg.github.io/Camilatavares-curriculum/)
-- 🔭 I’m currently working on some Javascript projects
-- 🌱 I’m currently learning Vue.js
-- 💬 Ask me about anything!
+- 🔭 I’m currently working on some Vue.js projects
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
