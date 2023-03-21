@@ -1,12 +1,7 @@
 
 ### Hey 👋
 
-
-- My name is Camila Tavares 
-
 - From 🇧🇷 living in 🇬🇧  
-
-- I'm a Front-End developer
 
 - I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
