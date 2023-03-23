@@ -7,7 +7,4 @@
 
 - 🔭 I’m currently working on some Vue.js projects  <br /> <br /> <br />
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,vue,github,sass" />
-</a>
 
